@@ -17,4 +17,4 @@ This is a simple Python project to manage student records.
 3. Follow the menu options
 
 ## Project Link
-https://github.com/your-username/student-management-system
+https://github.com/Mayuri-1113/student-management-system
